@@ -6,6 +6,7 @@
  * main - Entry point
  *
  * Return: Always 0
+ *by: michael and nifemi
  */
 int main(void)
 {
