@@ -18,6 +18,7 @@
  *
  * @fmt: The format.
  * @fn: The function associated.
+ *by: michael and nifemi
  */
 struct fmt
 {
